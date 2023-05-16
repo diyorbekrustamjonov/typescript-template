@@ -4,6 +4,8 @@
 .vscode
 typings/
 minio/
+.clinic/
+
 
 # Node artifact files
 node_modules/
@@ -25,7 +27,6 @@ build/
 
 # Maven
 target/
-dist/
 
 # JetBrains IDE
 .idea/
